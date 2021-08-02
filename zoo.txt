@@ -1,1 +1,10 @@
-xx
+Adjancency
+Choropleth
+Diagrams
+encoding
+Graduated Symbol
+Leaf Plot
+Matrix
+Protovis
+splom
+Visual

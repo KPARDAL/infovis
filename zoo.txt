@@ -1,10 +1,10 @@
 Adjancency
-Choropleth
+Choropleth map
 Diagrams
 encoding
 Graduated Symbol
 Leaf Plot
 Matrix
 Protovis
-splom
-Visual
+splom - scatter plot matrix
+Visual encondings
